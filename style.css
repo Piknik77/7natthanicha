@@ -5,3 +5,21 @@
 	a{
 	color: rgb(115, 2, 117);
 	}
+
+	div.container {
+		text-align: center;
+	  }
+	  
+	  ul.myUL {
+		display: inline-block;
+		text-align: left;
+	  }
+	  div.container {
+		text-align: center;
+	  }
+	  
+	  ol.myUL {
+		display: inline-block;
+		text-align: left;
+	  }
+	  
